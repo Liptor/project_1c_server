@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="Configuration.Расширение" id="1c5d8b74-7f3a-49d3-998e-f4ae51b1490e" configVersion="9622b7bd76a3374c4e57ba4ad1c88e7da0eef0a4"/>
+		<Metadata name="HTTPService.B2B_Api" id="f8d015a1-1a0b-42f1-8476-953321e58bf4" configVersion="795199c1696a61d51564eaeb13da601afa9c2f2f">
+			<Metadata name="HTTPService.B2B_Api.URLTemplate.Каталог" id="a7f752d6-578f-47bd-972b-5f2af502dbfe"/>
+			<Metadata name="HTTPService.B2B_Api.URLTemplate.Каталог.Method.ПолучитьКаталогНоменклатуры" id="e64858be-c2c6-40d5-912a-6c572ed1e47d"/>
+		</Metadata>
+		<Metadata name="HTTPService.B2B_Api.Module" id="f8d015a1-1a0b-42f1-8476-953321e58bf4.0" configVersion="263d518c43631a37a77de1bdd100d085b2087b14"/>
+		<Metadata name="Language.Русский" id="bf3e82a3-ec0e-4eaa-8f56-ad9ce5972f77" configVersion="5d9532e7f0d8718e7d2898b952176c319c383111"/>
+		<Metadata name="Role.Расш1_ОсновнаяРоль" id="17565414-e2e3-44b4-9eba-b6c0318eb710" configVersion="d8eacb16bc91d995f73ace21b2025bdf7011ed0a"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
