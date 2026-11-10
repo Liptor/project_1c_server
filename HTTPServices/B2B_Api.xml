@@ -42,6 +42,20 @@
 							<Handler>КаталогПолучитьКаталогНоменклатуры</Handler>
 						</Properties>
 					</Method>
+					<Method uuid="bd373086-b0d8-48f0-849d-82fb097e673e">
+						<Properties>
+							<Name>ОпубликоватьЗаказ</Name>
+							<Synonym>
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Опубликовать заказ</v8:content>
+								</v8:item>
+							</Synonym>
+							<Comment/>
+							<HTTPMethod>POST</HTTPMethod>
+							<Handler/>
+						</Properties>
+					</Method>
 				</ChildObjects>
 			</URLTemplate>
 		</ChildObjects>
